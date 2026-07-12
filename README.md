@@ -11,7 +11,7 @@ Summary: The package manager for AI Agent Skills
 
 Development: https://github.com/stakpak/paks
 
-Paks is a CLI tool for managing Agent Skills (https://agentskills.io).
+Paks is a CLI tool for managing [Agent Skills](https://agentskills.io).
 It helps you create new skills with proper structure, install skills from
 registries or Git repositories, publish skills to share with others, and manage
 installed skills across different AI coding agents.
